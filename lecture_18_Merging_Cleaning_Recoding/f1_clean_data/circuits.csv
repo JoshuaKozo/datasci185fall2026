@@ -75,3 +75,4 @@ circuitID,circuitRef,name,location,country,lat,lng,alt,url,alt_numeric
 77,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,15,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit,15.0
 78,losail,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,,http://en.wikipedia.org/wiki/Losail_International_Circuit,
 79,miami,Miami International Autodrome,Miami,USA,25.9581,-80.2389,,http://en.wikipedia.org/wiki/Miami_International_Autodrome,
+
